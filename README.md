@@ -1,9 +1,9 @@
-Medical Clinic Tracking System
-Team Name : _________________
+#Medical Clinic Tracking System
+##Team Name : _________________
 
-
-Jamil Bakhtyar,
-Sunny Patel,
-Victor Barron,
-Emma Bourne,
-Srikar Balmuri
+Team Members:
+### - Jamil Bakhtyar,
+### - Sunny Patel,
+### - Victor Barron,
+### - Emma Bourne,
+### - Srikar Balmuri
