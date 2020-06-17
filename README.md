@@ -1,5 +1,5 @@
 ### Medical Clinic Tracking System
-### Team Name : _________________
+### Team Alpha
 
 Team Members:
 ### - Jamil Bakhtyar
